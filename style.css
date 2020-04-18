@@ -771,11 +771,6 @@ border-left: none;
 .btn-suscribe:hover {
 box-shadow: 0 0 20px 1px rgb(128, 128, 128, 0.479);
 }
-.social-link {
-width: 129px;
-height: 28px;
-margin-right: 172px;
-}
 .copy-text {
 font-size: 12px;
 font-weight: 700;
