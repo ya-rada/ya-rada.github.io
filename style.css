@@ -19,6 +19,7 @@ padding-left: 98px;
 padding-right: 98px;
 }
 .container {
+width: 1366px;
 max-width: 1366px;
 min-width: 700px;
 min-height: 600px;
